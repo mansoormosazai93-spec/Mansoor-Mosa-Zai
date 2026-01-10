@@ -80,7 +80,7 @@ body {
 
 .Home {
     height: 100vh;
-    background: url("image/bg.jpg.jpeg")no-repeat;
+    background: url("image/bg.jpg")no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -326,3 +326,4 @@ body {
         pointer-events: auto;
     }
 }
+
