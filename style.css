@@ -80,13 +80,13 @@ body {
 
 .Home {
     height: 100vh;
-  
+   background: url("image/bg.jpg")no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
     align-items: center;
     padding: 0px 10%;
-background-color: red;
+
 
 }
 
@@ -326,6 +326,7 @@ background-color: red;
         pointer-events: auto;
     }
 }
+
 
 
 
