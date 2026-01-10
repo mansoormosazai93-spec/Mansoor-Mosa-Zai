@@ -6,7 +6,7 @@
 }
 
 body {
-    /* background: #081b29; */
+   background: #081b29;
     color: #ededed;
 }
 
@@ -326,6 +326,7 @@ body {
         pointer-events: auto;
     }
 }
+
 
 
 
