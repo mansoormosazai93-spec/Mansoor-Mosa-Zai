@@ -6,7 +6,7 @@
 }
 
 body {
-      background: #081b29;
+        background: url("image/bg.jpg")no-repeat;
     color: #ededed;
 }
 
@@ -327,6 +327,7 @@ body {
         pointer-events: auto;
     }
 }
+
 
 
 
