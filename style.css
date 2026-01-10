@@ -80,7 +80,7 @@ body {
 
 .Home {
     height: 100vh;
-    background: url("https://github.com/mansoormosazai93-spec/Mansoor-Mosa-Zai/blob/main/bg.jpg?raw=true")no-repeat;
+    background: url("image/bg.jpg")no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -326,6 +326,7 @@ body {
         pointer-events: auto;
     }
 }
+
 
 
 
